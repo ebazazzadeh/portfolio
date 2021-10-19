@@ -48,4 +48,4 @@ I am a member of the NSLS.
 
 <img src="./img/Project3-4.png" alt="Project3-4"></img>
 
-<img src="./img/Project5-6.png" alt="Team Work"></img>
+<img src="./img/project5-6.png" alt="Team Work"></img>
