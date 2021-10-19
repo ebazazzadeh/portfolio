@@ -31,14 +31,21 @@ software products as a customer technician.
 
 
 
+## The NSLS Member
+I am a member of the NSLS.
+
+<img src="./img/NSLS.jpg" alt="NSLS"></img>
+
 
 ## My Website
 
 <img src="./img/myportfolio.png" alt="My Portfolio"></img>
 
 
-## The NSLS Member
-I am a member of the NSLS.
+## My Projects 
 
-<img src="./img/NSLS.jpg" alt="My Portfolio"></img>
+<img src="./img/Project1-2.png" alt="Project1-2"></img>
 
+<img src="./img/Project3-4.png" alt="Project3-4"></img>
+
+<img src="./img/Project5-6.png" alt="Team Work"></img>
